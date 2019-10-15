@@ -1,3 +1,7 @@
+/*
+*这是hive自定义udf
+*
+*/
 import org.apache.hadoop.hive.ql.exec.UDF;
 
 import java.text.SimpleDateFormat;
